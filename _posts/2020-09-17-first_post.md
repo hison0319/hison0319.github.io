@@ -180,7 +180,19 @@ categories: 프로젝트
 >>> - 프론트 엔드
 >>>> + 반응형 웹 페이지. (템플릿 사용, 프로젝트 적용)
 
-### 3. 개발 환경
+
+### 3. ERD
+<img src="/img/wordbook/ERD.jpg"  width="700" height="370">
+
+
+### 4. Class Diagram
+<img src="/img/wordbook/classDiagram1.jpg"  width="700" height="370">
+<img src="/img/wordbook/classDiagram2.jpg"  width="700" height="370">
+<img src="/img/wordbook/classDiagram3.jpg"  width="700" height="370">
+<img src="/img/wordbook/classDiagram4.jpg"  width="700" height="370">
+
+
+### 5. 개발 환경
 > 1. 개발 환경
 >> *	Java 11.0.6
 >> *	Apache Tomcat 9.0.35
