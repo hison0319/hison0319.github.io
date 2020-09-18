@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "UTF-8"
+title                    : "방문해주셔서 감사합니다. 손한이의 GIT입니다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "손한이"
+description              : "저의 GIT입니다."
 remote_theme             : mmistakes/minimal-mistakes
 url                      : "https://hison0319.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -94,18 +94,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "손한이"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "저는 부족하지만 꾸준히 노력하는 **개발자**입니다."
+  location         : # "Somewhere"
+  email            : "hison0319@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "성격유형분석 테스트"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://today-test.com"
+    - label: "봄봄백과사전"
+      icon: "fas fa-fw fa-link"
+      url: "https://today-test.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -114,10 +117,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/hison0319/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/his0319/"
 
 # Site Footer
 footer:
