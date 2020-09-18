@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "UTF-8"
-title                    : "방문해주셔서 감사합니다. 손한이의 GIT입니다."
+title                    : "방문해주셔서 감사합니다. 손한이의 Github.io입니다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "손한이"
