@@ -11,4 +11,5 @@ categories: 프로젝트
 
 ### 1. 화면구성
 <img src="/img/wordbook/1.home.jpg"  width="700" height="370">
+
 ##### 홈 화면 구성
