@@ -12,4 +12,25 @@ categories: 프로젝트
 ### 1. 화면구성
 <img src="/img/wordbook/1.home.jpg"  width="700" height="370">
 
-##### 홈 화면 구성
+#### 홈 화면 구성
+<img src="/img/wordbook/2.login.jpg"  width="700" height="370">
+
+#### 로그인 기능 화면 구성
+<img src="/img/wordbook/2.home.jpg"  width="700" height="370">
+
+#### 홈 화면 구성
+<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
+
+#### 홈 화면 구성
+<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
+
+#### 홈 화면 구성
+<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
+
+#### 홈 화면 구성
+<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
+
+#### 홈 화면 구성
+<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
+
+#### 홈 화면 구성
