@@ -19,8 +19,8 @@ categories: 프로젝트
 
 
 #### 로그인 기능 화면 구성
-<img src="/img/wordbook/2.home.jpg"  width="700" height="370">
+<img src="/img/wordbook/3.signup.jpg"  width="700" height="370">
 
 
 #### 홈 화면 구성
-<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
+<img src="/img/wordbook/4.kakao_login.jpg"  width="700" height="370">
