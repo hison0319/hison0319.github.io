@@ -3,7 +3,7 @@ title: "단어장 프로젝트 포트폴리오 입니다."
 date: 2020-09-17 16:02:00 -0400
 categories: 프로젝트
 ---
-# Git repository : https://github.com/hison0319/202006tjProject
+# <a href="https://github.com/hison0319/202006tjProject" target="_blank">Git repository 바로가기</a>
 # 제목 : 단어장(개인 단어장을 만들고 서로 공유하는 웹 서비스)
 ## 기간 : `20. 6. 22 ~ `20. 7. 16
 ## 기관 : 더조은 아카데미 컴퓨터학원
