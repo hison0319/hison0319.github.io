@@ -24,3 +24,79 @@ categories: 프로젝트
 
 #### 홈 화면 구성
 <img src="/img/wordbook/4.kakao_login.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/5.sns_share.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/6.notice_board.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/7.notice_insert.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/8.notice.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/9.notice_update.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/10.wordbook_insert.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/10.wordbook_list.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/11.word_list.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/12.word_insert.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/13.word_update.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/14.word_array.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/14.wordbook_sharing_key.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/15.wordbook_sharing_key_kakao.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/16.wordbook_array.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/17.mypage.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/18.mypage_password.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/19.mypage_update.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/20.sharing_list.jpg"  width="700" height="370">
+
+
+#### 홈 화면 구성
+<img src="/img/wordbook/21.sharing_member_list_and_delete.jpg"  width="700" height="370">
