@@ -3,8 +3,8 @@ title: "봄봄백과사전 프로젝트 포트폴리오 입니다."
 date: 2020-09-18 16:21:00 -0400
 categories: 프로젝트
 ---
-# 홈페이지로 직접 방문(추천드립니다.) https://bombompedia.com/
-# Git repository : https://github.com/hison0319/202008bomp
+# <a href="https://bombompedia.com/" target="_blank">홈페이지로 직접 방문(추천드립니다)</a>
+# <a href="https://github.com/hison0319/202008bomp" target="_blank">Git repository 바로가기</a>
 # 제목 : 봄-봄백과사전
 ## 기간 : `20. 8. 15 ~ `20. 9. 13
 ## 기관 : 더조은 아카데미 컴퓨터학원
@@ -12,55 +12,55 @@ categories: 프로젝트
 ### 개요 : 시각장애인을 위한 백과사전을 만드는 커뮤니티. 게시글로 단어를 제시. 볼 수 있는 사람들의 시각정보를 댓글로 모으고, 공감성이 높은 댓글을 좋아요로 선별. 게시글 피드 정렬, 게시글 작성, 좋아요, 태그, 댓글, 답글 기능 등을 갖춘 스프링 프레임워크 기반의 웹 서버 개발 프로젝트 입니다.
 
 ### 1. 화면구성
-#### 홈 화면 구성
+#### 홈 화면 구성 1번
 <img src="/img/bomp/1.home(1).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 홈 화면 구성 2번 - 가장 많은 댓글을 갖는 게시글 3개를 BEST POST로 출력
 <img src="/img/bomp/1.home(2).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 홈 화면 구성 3번 - 카테고리 분류
 <img src="/img/bomp/1.home(3).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 홈 화면 구성 4번 - 메일 보내기 서비스
 <img src="/img/bomp/1.home(4).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 게시판 화면 구성 1번 - 기능지원 : 북마크, 신고하기, 좋아요, 글쓰기, 검색, 정렬(댓글 인기, 최근 활동 정렬)/ 피드는 로그인 시 사용자가 설정한 태그를 포함한 게시글이 우선 출력 후 포함하지 않은 게시글 출력.
 <img src="/img/bomp/2.board(1).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 게시판 화면 구성 2번 - 좋아요를 많이 받은 게시글 순으로 3개까지 출력
 <img src="/img/bomp/2.board(2).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 게시판 화면 구성 3번 - 특정 카테고리 게시판
 <img src="/img/bomp/3.board_other_category.jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 토론방 화면 구성 - 공지사항 등록 가능
 <img src="/img/bomp/4.board_other_discussion.jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 댓글 화면 구성 1번 - 기능지원 : 좋아요, 신고하기, 댓글남기기, 답글남기기, 모두 비동기 처리
 <img src="/img/bomp/5.comment(1).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 댓글 화면 구성 2번
 <img src="/img/bomp/5.comment(2).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 내 정보 화면 구성 1번 - 기능지원 : 닉네임 수정, 중복 및 유효성 검사 비동기처리, 태그 키워드 설정, 내가쓴 게시물보기, 북마크한 게시물 보기
 <img src="/img/bomp/6.mypage(1).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 내 정보 화면 구성 2번 - 알람확인 기능
 <img src="/img/bomp/6.mypage(2).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성
+#### 다른사람 정보 화면 구성 - 메세지 보내기, 다른사람이 쓴 게시글 보기, 운영자 로그인시 회원탈퇴시키기 
 <img src="/img/bomp/7.message.jpg"  width="700" height="370">
 
 
