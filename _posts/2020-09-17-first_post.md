@@ -10,27 +10,17 @@ categories: 프로젝트
 ### 개요 : 개인 단어장을 번역API를 활용하여 문단 삽입 시 자동으로 생성하고, 생성된 단어장을 타 사용자에게 공유하는 기능을 갖는 스프링 프레임워크 기반의 웹 서버 개발
 
 ### 1. 화면구성
+#### 홈 화면 구성
 <img src="/img/wordbook/1.home.jpg"  width="700" height="370">
 
-#### 홈 화면 구성
+
+#### 로그인 기능 화면 구성
 <img src="/img/wordbook/2.login.jpg"  width="700" height="370">
+
 
 #### 로그인 기능 화면 구성
 <img src="/img/wordbook/2.home.jpg"  width="700" height="370">
 
-#### 홈 화면 구성
-<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
 
 #### 홈 화면 구성
 <img src="/img/wordbook/1.home.jpg"  width="700" height="370">
-
-#### 홈 화면 구성
-<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
-
-#### 홈 화면 구성
-<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
-
-#### 홈 화면 구성
-<img src="/img/wordbook/1.home.jpg"  width="700" height="370">
-
-#### 홈 화면 구성
