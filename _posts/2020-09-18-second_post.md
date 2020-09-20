@@ -1,7 +1,7 @@
 ---
 title: "봄봄백과사전 프로젝트 포트폴리오 입니다."
 date: 2020-09-18 16:21:00 -0400
-categories: 프로젝트
+categories: project
 ---
 # <a href="https://bombompedia.com/" target="_blank">홈페이지로 직접 방문(추천드립니다)</a>
 # <a href="https://github.com/hison0319/202008bomp" target="_blank">Git repository 바로가기</a>
