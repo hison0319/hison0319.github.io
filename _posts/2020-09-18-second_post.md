@@ -36,7 +36,7 @@ categories: project
 <img src="/img/bomp/2.board(1).jpg"  width="700" height="370">
 
 
-#### 게시판 화면 구성 2번 - 좋아요를 많이 받은 게시글 순으로 3개까지 출력
+#### 게시판 화면 구성 2번 - 좋아요를 많이 받은 댓글 순서로 3개까지 출력
 <img src="/img/bomp/2.board(2).jpg"  width="700" height="370">
 
 
