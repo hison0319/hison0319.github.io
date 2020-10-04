@@ -20,7 +20,7 @@ categories: project
 <img src="/img/bomp/1.home(1).jpg"  width="700" height="370">
 
 
-#### 홈 화면 구성 2번 - 가장 많은 댓글을 갖는 게시글 3개를 BEST POST로 출력
+#### 홈 화면 구성 2번 - 웹 서버 전체 댓글 중 좋아요를 가장 많이 받은 댓글을 소유한 게시물 3개를 BEST POST로 출력.
 <img src="/img/bomp/1.home(2).jpg"  width="700" height="370">
 
 
