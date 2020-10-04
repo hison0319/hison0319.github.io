@@ -48,7 +48,7 @@ categories: project
 <img src="/img/bomp/4.board_other_discussion.jpg"  width="700" height="370">
 
 
-#### 댓글 화면 구성 1번 - 기능지원 : 좋아요, 신고하기, 댓글남기기, 답글남기기, 모두 비동기 처리
+#### 댓글 화면 구성 1번 - 기능지원 : 좋아요, 신고하기, 댓글남기기, 답글남기기
 <img src="/img/bomp/5.comment(1).jpg"  width="700" height="370">
 
 
@@ -56,7 +56,7 @@ categories: project
 <img src="/img/bomp/5.comment(2).jpg"  width="700" height="370">
 
 
-#### 내 정보 화면 구성 1번 - 기능지원 : 닉네임 수정, 중복 및 유효성 검사 비동기처리, 태그 키워드 설정, 내가쓴 게시물보기, 북마크한 게시물 보기
+#### 내 정보 화면 구성 1번 - 기능지원 : 닉네임 수정, 태그 키워드 설정, 내가쓴 게시물보기, 북마크한 게시물 보기
 <img src="/img/bomp/6.mypage(1).jpg"  width="700" height="370">
 
 
@@ -64,8 +64,12 @@ categories: project
 <img src="/img/bomp/6.mypage(2).jpg"  width="700" height="370">
 
 
+#### 내 정보 화면 구성 3번 - 메시지 확인하기
+<img src="/img/bomp/7.message(2).jpg"  width="700" height="370">
+
+
 #### 다른사람 정보 화면 구성 - 메세지 보내기, 다른사람이 쓴 게시글 보기, 운영자 로그인시 회원탈퇴시키기 
-<img src="/img/bomp/7.message.jpg"  width="700" height="370">
+<img src="/img/bomp/7.message(1).jpg"  width="700" height="370">
 
 
 ### 3. 요구사항 정의서(기능 정리)
@@ -123,11 +127,10 @@ categories: project
 
 
 ### 5. 개발 환경
-> 1. 개발 환경
->> *	Java 1.8.0
->> *	Apache Tomcat 9.0.35
->> *	MySQL 8.0.20
->> *	Spring 3.9.13
->> *	Servlet 4.0
->> *	Jquery 1.12.4
->> *	Window10, eclipse 4.16.0, HTML5, CSS3, JSP 2.3
+> *	Java 1.8.0
+> *	Apache Tomcat 9.0.35
+> *	MySQL 8.0.20
+> *	Spring 3.9.13
+> *	Servlet 4.0
+> *	Jquery 1.12.4
+> *	Window10, eclipse 4.16.0, HTML5, CSS3, JSP 2.3
